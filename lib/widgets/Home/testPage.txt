@@ -1,0 +1,16 @@
+return ListView.builder(
+                        itemCount: snapshot.data.length,
+                        itemBuilder: (BuildContext context, int index) {
+                          final bool alreadySaved =
+                              _saved.contains(snapshot.data[index]);
+                          if (!snapshot.data[index].isParliamentary) {
+                            return ListTile(
+                              title: Text(snapshot.data[index].name,
+                                  style: TextStyle(
+                                    fontSize: 20.0,
+                                    fontWeight: FontWeight.bold,
+                                  )),
+                             
+                            );
+                          }
+                        });

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "139799832208",
+    "firebase_url": "https://antopolis-all-apps.firebaseio.com",
+    "project_id": "antopolis-all-apps",
+    "storage_bucket": "antopolis-all-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139799832208:android:49de985c46eb9a34775a15",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139799832208-hij7v22o8logrgs21na981mqqtjppnnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn3VGltf1lI-lxbmWgek4d1XfbtsMb6uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139799832208-hij7v22o8logrgs21na981mqqtjppnnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
